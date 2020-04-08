@@ -3,7 +3,7 @@
 ## Table of contents
 
 1. __[Installation](#installation)__
-1. __[Research (wiki)](#research)__
+1. __[Research (wiki)](https://github.com/joanpadolina/web-design-1920/wiki/Research)__
 1. __[Concept](#concept)__
 1. __[Meetings](#meetings)__
 1. __[Closed Caption Cooking](#closed-caption-cooking)__
