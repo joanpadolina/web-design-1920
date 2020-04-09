@@ -3,18 +3,36 @@
 ## Table of contents
 
 1. __[Installation](#installation)__
-1. __[Research (wiki)](https://github.com/joanpadolina/web-design-1920/wiki/Research)__
+1. __[Research (wiki)](https://github.com/joanpadolina/web-design-1920/wiki)__
 1. __[Concept](#concept)__
-1. __[Meetings](#meetings)__
-1. __[Closed Caption Cooking](#closed-caption-cooking)__
+1. __[Features](#features)__
 1. __[Source](#source)__
 1. __[Credits](#credits)__
 
 ## Installation
-## Research
+* Clone
 
+```
+git clone https://github.com/joanpadolina/web-design-1920.git
+```
+* NPM
 
-## Meetings
+```
+npm install
+```
+
+* Server - starts server.js
+
+```
+npm run dev
+```
+
+* Build
+
+``` 
+npm run build-dev
+
+```
 
 ### 1. Meeting with Marie van Driessche
 
@@ -22,32 +40,6 @@
 
 For the first meeting I've gatherd information about how Marie  go through the same path as us but without her hearing. Her first language is sign language is short, things we think she mis because we can experience doens't necessarily means she misses those things too. In the contrary, she doens't know music, she can only feel the vibrations.
 
-#### Concept
-
-For this first part of the project I've come across some youtube clips about cooking. And then I wondered how people with limited hearing are following the Closed Captions. It does seem like, it's easy to follow because your cooking and you actually see what's happening. So this mean that captions are a little bit to much? 
-
-You can experience cooking like everyone because it's available for everyone. But the reason I wanted to make the cooking show more absurd is because adding some nonesense would be fun to watch. Maybe even better to follow? 
-
-
-
-
-<img src="/readme_assets/concept_1.1.png">
-
-#### Feedback
-
-Some feedback I've gotten for the first concept is:
-* it's important to show the measurments for the product
-* It does need to be synchronous with ingredients and a video
-* When the cooking part begins it's should always show the incredients and how much your using.
-* There has to be a hierarchy between text and video. Not to distracting 
-* Look for a Belgium show with Jeroen Maus // Dagelijkse Kost
-
-
-### __2. Feedback from first meeting__
-
-#### Overal meeting
-
-#### Feedback
 
 <!-- # Web Design @cmda-minor-web 1920
 //Interactie ontwerpen: Rapid prototypen en testen met echte mensen
