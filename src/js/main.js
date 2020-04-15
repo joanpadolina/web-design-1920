@@ -41,7 +41,7 @@ function onPlayerStateChange(event) {
                     
             },3500)
             breatheContainer.classList.add('show')
-        }, 1000)
+        }, 15000)
         done = true;
     }
 }
