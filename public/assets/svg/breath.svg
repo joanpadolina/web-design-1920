@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="460" viewBox="0 0 460 460">
+  <defs>
+    <linearGradient id="breath-a" x1="50%" x2="50%" y1="0%" y2="99.697%">
+      <stop offset="0%" stop-color="#98C5E9"/>
+      <stop offset="99.939%" stop-color="#7674E1"/>
+    </linearGradient>
+    <linearGradient id="breath-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ABE3FB"/>
+      <stop offset="100%" stop-color="#8072F6"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(3 3)">
+    <circle cx="227" cy="227" r="202" fill="url(#breath-a)"/>
+    <path stroke="url(#breath-b)" stroke-dasharray="0 28" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="6" d="M227,454 C352.368638,454 454,352.368638 454,227 C454,101.631362 352.368638,0 227,0 C101.631362,0 0,101.631362 0,227 C0,352.368638 101.631362,454 227,454 Z"/>
+  </g>
+</svg>

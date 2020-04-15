@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./src/css/styles.css">
+    <title>yoga cc</title>
+</head>
+
+<body>
+    <h1>
+        Morning Yoga
+    </h1>
+    <div class="frame-container">
+        <div id="player"></div>
+    </div>
+    <section class="timer">
+        <h2>
+            Hold this position for <span id="time"> 04:00 </span> minutes
+        </h2>
+    </section>
+    <!-- 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4pKly2JojMw" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen volume="0">
+    </iframe> -->
+    <section class="breathe">
+        <!-- <div class="outline"> </div>
+        <div class="br-circle"></div> -->
+        <div class="svg-container">
+            <p>breathe in </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="460" height="460" viewBox="0 0 460 460">
+                <defs>
+                    <linearGradient id="breath-a" x1="50%" x2="50%" y1="0%" y2="99.697%">
+                        <stop offset="0%" stop-color="#98C5E9" />
+                        <stop offset="99.939%" stop-color="#7674E1" />
+                    </linearGradient>
+                    <linearGradient id="breath-b" x1="50%" x2="50%" y1="0%" y2="100%">
+                        <stop offset="0%" stop-color="#ABE3FB" />
+                        <stop offset="100%" stop-color="#8072F6" />
+                    </linearGradient>
+                </defs>
+                <g fill="none" fill-rule="evenodd" transform="translate(3 3)">
+                    <circle cx="227" cy="227" r="202" fill="url(#breath-a)" />
+                    <path stroke="url(#breath-b)" stroke-dasharray="0 28" stroke-linecap="round" stroke-linejoin="bevel"
+                        stroke-width="6"
+                        d="M227,454 C352.368638,454 454,352.368638 454,227 C454,101.631362 352.368638,0 227,0 C101.631362,0 0,101.631362 0,227 C0,352.368638 101.631362,454 227,454 Z" />
+                </g>
+            </svg>
+            <div class="svg-bg"></div>
+        </div>
+
+    </section>
+
+    <script src="src/js/main.js"></script>
+</body>
+
+</html>
