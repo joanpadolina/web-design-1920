@@ -2,7 +2,7 @@
 
 ![Imgur](https://i.imgur.com/fxuV8U8.jpg)
 
-#[Full documentation, read here!](https://github.com/joanpadolina/web-design-1920/wiki)
+# [Full documentation read here!](https://github.com/joanpadolina/web-design-1920/wiki)
 
 ## Table of contents
 
@@ -35,6 +35,7 @@ Text like "stretch" in a more playable captions
 ## Credits
 
 Manau/ guidance
+
 Marie/ for feedback
 
 
