@@ -2,10 +2,11 @@
 
 ![Imgur](https://i.imgur.com/fxuV8U8.jpg)
 
+#[Full documentation, read here!](https://github.com/joanpadolina/web-design-1920/wiki)
+
 ## Table of contents
 
 1. __[Installation](#installation)__
-1. __[Research (wiki)](https://github.com/joanpadolina/web-design-1920/wiki)__
 1. __[Concept](#concept)__
 1. __[Credits](#credits)__
 
