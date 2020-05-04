@@ -33,7 +33,7 @@ async function fetchCaption(cc) {
 snoozebtn.addEventListener('click', () => {
     snooze.classList.toggle('show')
     video.style.opacity = 0
-    h1.textContent = "Okay five more minutes"
+    h1.textContent = "Okay five more minutes.."
 
 })
 yesbtn.addEventListener('click', () => {
@@ -65,7 +65,7 @@ let player = youtube({
             title.classList.add('show')
             info.classList.add('show')
             title.textContent = "Neck Release"
-            info.textContent = "strech ear form shoulder"
+            info.textContent = "stretch ear form shoulder"
 
         }
         if (time == "00:35") {
@@ -95,6 +95,8 @@ let player = youtube({
         if (time == "01:55") {
             title.classList.add('show')
             title.textContent = "Tabletop pose"
+        }if (time == "02:00") {
+            title.classList.remove('show')
         }
 
     })

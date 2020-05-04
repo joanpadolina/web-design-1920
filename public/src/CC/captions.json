@@ -2,11 +2,11 @@
 	"CC": [{
 			"startTime": "00:00",
 			"endTime": "00:01:03",
-			"text": "hey Yogi's welcome to my channel"
+			"text": "Hey Yogi's welcome to my channel"
 		}, {
 			"startTime": "00:02",
 			"endTime": "00:04",
-			"text": "today we're just going to do a quick morning stretch routine"
+			"text": "today we're just going to do a quick morning <em> stretch </em> routine"
 		}, {
 			"startTime": "00:05",
 			"endTime": "00:06",
@@ -14,7 +14,7 @@
 		}, {
 			"startTime": "00:08",
 			"endTime": "00:10",
-			"text": "of all these aches and pains and kinks in your body"
+			"text": "of all these <span>aches</span> and <span>pains</span> and kinks in your body"
 		}, {
 			"startTime": "00:11",
 			"endTime": "00:12",
@@ -22,7 +22,7 @@
 		}, {
 			"startTime": "00:13",
 			"endTime": "00:15",
-			"text": " so let's begin in a comfortable seated position"
+			"text": " so let's begin in a <b>comfortable seated</b> position"
 		},{
 			"startTime": "00:16",
 			"endTime": "00:17",
@@ -30,7 +30,7 @@
 		}, {
 			"startTime": "00:18",
 			"endTime": "00:19",
-			"text": " lengthen your spine drop your shoulders down and"
+			"text": " <p>lengthen</p> your spine <div>drop</div> your shoulders down and"
 		}, {
 			"startTime": "00:20",
 			"endTime": "00:21",
@@ -38,19 +38,19 @@
 		}, {
 			"startTime": "00:22",
 			"endTime": "00:23",
-			"text": "chin parallel to the floor "
+			"text": "<b>chin parallel to the floor</b> "
 		}, {
 			"startTime": "00:24",
 			"endTime": "00:25",
-			"text": " we'll do a little neck release here "
+			"text": " we'll do a little <b>neck release</b> here "
 		}, {
 			"startTime": "00:26",
 			"endTime": "00:28",
-			"text": "so you can drop your left ear towards your left shoulder"
+			"text": "so you can <b>drop your left ear towards your left shoulder</b>"
 		}, {
 			"startTime": "00:29",
 			"endTime": "00:31",
-			"text": "stretching through the right side of your neck"
+			"text": "<em>stretching</em> through the right side of your neck"
 		}, {
 			"startTime": "00:31",
 			"endTime": "00:32",
@@ -58,11 +58,11 @@
 		}, {
 			"startTime": "00:35",
 			"endTime": "00:37",
-			"text": "just to pull the ear further away from that shoulder "
+			"text": "just to <em>pull</em> the ear further away from that shoulder "
 		}, {
 			"startTime": "00:38",
 			"endTime": "00:39",
-			"text": "keep pressing it down and if you'd like "
+			"text": "keep pressing it <div>down</div> and if you'd like "
 		}, {
 			"startTime": "00:39",
 			"endTime": "00:41",
@@ -74,15 +74,15 @@
 		},{
 			"startTime": "00:43",
 			"endTime": "00:45",
-			"text": "I'll just take three to five breaths here"
+			"text": "I'll just take <b>three to five breaths</b> here"
 		},{
 			"startTime": "00:49",
 			"endTime": "00:52",
-			"text": " sofening your jaw "
+			"text": " <span>sofening your jaw</span> "
 		},{
 			"startTime": "00:53",
 			"endTime": "00:54",
-			"text": "letting the head be heavy"
+			"text": "letting the head be <b>heavy</b>"
 		},{
 			"startTime": "00:55",
 			"endTime": "01:03",
@@ -90,7 +90,7 @@
 		},{
 			"startTime": "01:05",
 			"endTime": "01:07",
-			"text": "one more deep breath"
+			"text": "<b>one more deep breath</b>"
 		},{
 			"startTime": "01:08",
 			"endTime": "01:11",

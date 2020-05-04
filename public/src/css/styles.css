@@ -108,13 +108,53 @@ div.svg-container {
 .captions {
     text-align: center;
     background: black;
-    display: grid;
     margin: auto;
     padding: 0.4em;
-    font-size: 1.3em;
+    font-size: 2.3em;
     position: relative;
     width: 28em;
+    font-weight: 250;
 
+}
+
+/* EM = stretch */
+/* b = bold */
+/* p = length */
+/* div = drop */
+
+.captions em {
+    position: relative;
+    font-weight: 500;
+    letter-spacing: 0.6em;
+    transform: scale(1,1);
+}
+.captions span{
+    font-family:Apple Chancery;
+    letter-spacing: .3em;
+}
+.captions p{
+    position: relative;
+    display: inline-block;
+    font-weight: 800;
+    transform:scale(1,2);
+}
+.captions div:nth-of-type(1){
+    position: relative;
+    top: 0.4em;
+    display: inline-block;
+    font-weight: 800;
+}
+
+@keyframes stretch {
+    0% {
+        transform: scale(1,1);
+    }
+    50%{
+        transform: scale(2,1);
+    }
+    100%{
+        transform: scale(1,1);
+    }
 }
 
 section.breathe {
@@ -143,16 +183,13 @@ div.br-circle {
 
 h2.position_name {
     display: inline-block;
-
     position: absolute;
-    
     margin: auto;
-    
     top: 5em;
-    
     z-index: 2;
-    
+    -webkit-text-stroke: 1px black;
     left: 18em;
+    font-size:1.7em;
 }
 .snooze {
     height: 100vw;
@@ -208,18 +245,15 @@ iframe {
     background: #00c3ff;
     position: relative;
     display: inline-block;
-    animation: width-strech 3s ease-in-out infinite;
+    animation: width-strech 3s ease-in-out 1;
     transition: 1000ms ease-in-out;
 }
 @keyframes width-strech{
     0%{
         width:8em;
     }
-    50%{
-        width:11em;
-    }
     100%{
-        width: 8em;
+        width:11em;
     }
 }
 .timer,
